@@ -1,7 +1,7 @@
 源码作者https://github.com/ForceBoot/HomePage  
 基本的代码没有变动 只是修改了部分链接名称 icon为自己的
 
-# 环境搭建已经设置
+# 环境搭建
 ## MAC环境安装Node.js
 ### 安装步骤：
 1、安装homebrew：
