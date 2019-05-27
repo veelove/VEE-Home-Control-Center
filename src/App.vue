@@ -98,7 +98,7 @@ export default {
 		IconFont
 	},
 	created () {
-		document.title = 'Home'
+		document.title = 'VEE Home Control Center'
 	}
 }
 </script>
